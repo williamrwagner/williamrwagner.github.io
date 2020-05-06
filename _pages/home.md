@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: home
+layout: single
 title: "I care about Rockport's future."
 ---
 
@@ -20,7 +20,7 @@ I think I'm a good candidate for the Board of Selectman because:
   Planning for the future of the Long Beach community and beach.
 
 * I am committed to building a strong collaboration among the Selectmen, 
-  volunteer committees and Town employeees to overcome these challenges, 
+  volunteer committees and Town employees to overcome these challenges, 
   and to ensure that Rockport is a vibrant community serving people of all ages.
 
 Please don't hesitate to email me at `wrwagner@alum.mit.edu`.
