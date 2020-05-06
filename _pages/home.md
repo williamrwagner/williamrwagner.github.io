@@ -1,13 +1,13 @@
 ---
 permalink: /
 layout: home
-title: "Vote for me."
+title: "Vote for me in 2020."
 ---
 
 
 I am William R Wagner.
 I've lived in Rockport for ten years, just south of Pigeon Cove.
-I am running for a position on the Board of Selectman.
+I am running for a position on the Board of Selectman in the upcoming 2020 Rockport town election.
 
 I'm asking you to vote for me because:
 
