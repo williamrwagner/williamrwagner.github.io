@@ -16,7 +16,7 @@
 title: William R Wagner
 email: wrwagner@alum.mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  William R Wagner for Rockport selectman.
+  Bill Wagner for Rockport Board of Selectman.
 minimal_mistakes_skin: default
 search: false
 
@@ -50,7 +50,7 @@ plugins:
 author:
   name             : "William R Wagner"
   avatar           : "/assets/images/headshot.jpg"
-  bio              : "Ten year Rockport resident running for selectman."
+  bio              : "Ten year Rockport resident."
   email            : "wrwagner@alum.mit.edu"
 
   links:
