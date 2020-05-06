@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: "Vote for me in 2020."
+title: "I care about Rockport's future."
 ---
 
 
