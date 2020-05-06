@@ -22,5 +22,5 @@ I'm asking you to vote for me because:
   volunteer committees and Town employeees to overcome these challenges, 
   and to ensure that Rockport is a vibrant community serving people of all ages.
 
-Please email me at `wrwagner@alum.mit.edu`.
-I want to know what issues you are passionate about.
+Please don't hesitate to email me at `wrwagner@alum.mit.edu`.
+I want to understand the issues you care about most.
