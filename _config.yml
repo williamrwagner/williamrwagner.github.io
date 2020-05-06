@@ -31,8 +31,7 @@ paginate: 0 # amount of posts to show
 #paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
-  - _pages
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -101,7 +100,7 @@ defaults:
   #    related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
