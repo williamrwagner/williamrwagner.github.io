@@ -7,9 +7,10 @@ title: "I care about Rockport's future."
 
 My name is Bill Wagner.
 I've lived in Rockport for ten years just south of Pigeon Cove.
-I am running for a position on the Board of Selectman in the upcoming 2020 Rockport town election.
+I am running for a position on the Board of Selectman in the upcoming 2020 Rockport town election,
+and I'm asking you to vote for me.
 
-I'm asking you to vote for me because:
+I think I'm a good candidate for the Board of Selectman because:
 
 * I am experienced in Town operations – 6 years on the Finance and 
   Capital Planning Committees has given me a deep knowledge of town operations and future financial challenges.
