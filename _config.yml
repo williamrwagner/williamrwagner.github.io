@@ -17,8 +17,6 @@ title: William R Wagner
 email: wrwagner@alum.mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   William R Wagner for Rockport selectman.
-  #twitter_username: username
-  #github_username: username
 minimal_mistakes_skin: default
 search: false
 
@@ -61,7 +59,7 @@ author:
   email            : "wrwagner@alum.mit.edu"
 
   links:
-    - label: "Location"
+    - label: "Rockport, MA"
       icon: "fa fa-fw fa-map-marker"
       url: "https://goo.gl/maps/g5XzSuDecW8YMETP6"
       #- label: "Twitter"
