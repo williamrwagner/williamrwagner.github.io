@@ -62,7 +62,7 @@ author:
 
   links:
     - label: "Location"
-      #icon: "fas fa-fw fa-link"
+      icon: "fa fa-fw fa-map-marker"
       url: "https://goo.gl/maps/g5XzSuDecW8YMETP6"
       #- label: "Twitter"
       #  icon: "fab fa-fw fa-twitter-square"
