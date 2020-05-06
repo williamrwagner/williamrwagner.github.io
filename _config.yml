@@ -61,12 +61,13 @@ author:
   name             : "William R Wagner"
   avatar           : "/assets/images/headshot.jpg"
   bio              : "Ten year Rockport resident running for selectman."
-  email            : "wrwagner@alum.mit.edu"
 
   links:
-    - label: "Location"
+    - label: "Located in Rockport, MA"
       #icon: "fas fa-fw fa-link"
       url: "https://goo.gl/maps/g5XzSuDecW8YMETP6"
+    - label: "wrwagner@alum.mit.edu"
+      url: "mailto:wrwagner@alum.mit.edu"
       #- label: "Twitter"
       #  icon: "fab fa-fw fa-twitter-square"
       #  url: "https://twitter.com/"
