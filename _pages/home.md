@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: "Home page"
+title: ""
 ---
 
 Vote for me.
