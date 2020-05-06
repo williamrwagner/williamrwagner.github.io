@@ -5,8 +5,8 @@ title: "I care about Rockport's future."
 ---
 
 
-I am William R Wagner.
-I've lived in Rockport for ten years, just south of Pigeon Cove.
+My name is Bill Wagner.
+I've lived in Rockport for ten years just south of Pigeon Cove.
 I am running for a position on the Board of Selectman in the upcoming 2020 Rockport town election.
 
 I'm asking you to vote for me because:
