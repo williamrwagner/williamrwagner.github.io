@@ -1,9 +1,9 @@
-#main:
-#  - title: "Posts"
-#    url: /posts/
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
-#  - title: "About"
-#    url: /about/
+main:
+  - title: "Town participation"
+    url: /town-participation/
+  - title: "Professional leadership"
+    url: /professional-leadership/
+  - title: "Personal interests"
+    url: /personal-interests/
+  - title: "Help my campaign"
+    url: /help-my-campaign/
