@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Vote for Bill Wagner for Rockport's Board of Selectman in 2020
+title: Bill Wagner for Rockport's Board of Selectman in 2020
 email: wrwagner@alum.mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Bill Wagner for Rockport Board of Selectman.
+  Bill Wagner for Rockport's Board of Selectman in 2020.
 minimal_mistakes_skin: default
 search: false
 
