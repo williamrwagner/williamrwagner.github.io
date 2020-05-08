@@ -4,7 +4,6 @@ layout: single
 title: "I care about Rockport's future."
 ---
 
-
 My name is Bill Wagner.
 I've lived in Rockport for ten years just south of Pigeon Cove.
 I am running for a position on the Board of Selectman in the upcoming 2020 Rockport town election,
