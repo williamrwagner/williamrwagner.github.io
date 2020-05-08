@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bill Wagner for Rockport's Board of Selectman in 2020
+title: Bill Wagner
 email: wrwagner@alum.mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Bill Wagner for Rockport's Board of Selectman in 2020.
@@ -48,7 +48,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name             : "William R Wagner"
+  name             : "Bill Wagner"
   avatar           : "/assets/images/headshot.jpg"
   bio              : "Ten year Rockport resident."
   email            : "wrwagner@alum.mit.edu"
