@@ -5,11 +5,11 @@ permalink: /help-my-campaign/
 ---
 I would like to spread the word about my candidacy.
 
-Click on the following if you would like to help:
+To help in my campaign:
 
-*   Request a lawn sign (make this a hyper link to an email)
+*   Display a lawn sign (make this a hyper link to an email)
 
-*   All donations graciously accepted; mail to:
+*   Make a donation - all are graciously accepted; mail to:
 
         Ian Crown, treasurer
         WRWagner Election Campaign
