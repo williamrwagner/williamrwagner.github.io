@@ -51,14 +51,13 @@ author:
   name             : "Bill Wagner"
   avatar           : "/assets/images/headshot.jpg"
   bio              : "Ten year Rockport resident."
-  email            : "wrwagner@alum.mit.edu"
 
   links:
     - label: "Rockport, MA"
       icon: "fa fa-fw fa-map-marker"
       url: "https://goo.gl/maps/g5XzSuDecW8YMETP6"
     - label: "wrwagner@alum.mit.edu"
-      icon: "fa fa-fw fa-mail"
+      icon: "fa fa-fw fa-envelope-square"
       url: "mailto:wrwagner@alum.mit.edu"
   
 #footer:
