@@ -4,7 +4,7 @@ header:
 permalink: /help-my-campaign/
 ---
 
-[Lawn sign](/assets/images/lawn_sign.jpeg)
+![Lawn sign](/assets/images/lawn_sign.jpeg)
 
 *   [Email me at `wrwagner@alum.mit.edu` to display a lawn sign](mailto:wrwagner@alum.mit.edu)
 
