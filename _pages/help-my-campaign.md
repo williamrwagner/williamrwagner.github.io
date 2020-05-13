@@ -4,7 +4,7 @@ header: /assets/images/lawn_sign.jpeg
 permalink: /help-my-campaign/
 ---
 
-*   [Email to me at `wrwagner@alum.mit.edu` to display a lawn sign](mailto:wrwagner@alum.mit.edu)
+*   [Email me at `wrwagner@alum.mit.edu` to display a lawn sign](mailto:wrwagner@alum.mit.edu)
 
 *   Donations are graciously accepted. Please mail to:
 
