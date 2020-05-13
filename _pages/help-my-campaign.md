@@ -4,14 +4,11 @@ header: /assets/images/lawn_sign.jpeg
 permalink: /help-my-campaign/
 ---
 
-I would like to spread the word about my candidacy.
+*   [Email to me at `wrwagner@alum.mit.edu` display a lawn sign](mailto:wrwagner@alum.mit.edu)
 
-To help in my campaign:
+*   Donations are graciously accepted. Please mail to:
 
-*   Display a lawn sign (make this a hyper link to an email)
-
-*   Make a donation - all are graciously accepted; mail to:
     -  Ian Crown, treasurer  
        WRWagner Election Campaign  
        67 Eden Road  
-       Rockport, MA 01966  
+       Rockport, MA 01966
