@@ -1,6 +1,7 @@
 ---
 title: Help my campaign
-header: image: /assets/images/lawn_sign.jpeg
+header: 
+    image: /assets/images/lawn_sign.jpeg
 permalink: /help-my-campaign/
 ---
 
