@@ -1,26 +1,42 @@
 ---
 permalink: /
 layout: single
-title: "I care about Rockport's future."
+title: "Working with Neighbors to Chart a Course for the Future"
 ---
 
-My name is Bill Wagner.
-I've lived in Rockport for ten years just south of Pigeon Cove.
-I am running for a position on the Board of Selectman in the upcoming 2020 Rockport town election,
-and I'm asking you to vote for me.
+More than a mere tag line, having a Board of Selectmen working with neighbors 
+to chart a course for the future is what I deeply believe is needed for the Town to meet the challenges ahead. 
+There are immediate challenges dealing with the economic fallout of the pandemic, and there are significant future challenges; 
+virtually all have financial implications for the Town and its residents. 
+We need a defined course for the future, along with a deep understanding of how to get there, 
+and the ability to generate the necessary resources to ensure life in Rockport is the very best for all residents. 
 
-I think I'm a good candidate for the Board of Selectman because:
+In addition to its executive duties and operations oversight functions, the Selectmen must be the leaders of planning 
+for the future by bringing together and integrating the work of the many other Town boards, committees, and commissions. 
+It is important that members of the public also have significant input on issues facing the Town.  
+I am committed in being a team player with the other Selectmen and collaborating with committees, residents, 
+and Town employees to ensure Rockport is a vibrant community serving people of all ages.
 
-* I am experienced in Town operations – 6 years on the Finance and 
-  Capital Planning Committees has given me a deep knowledge of town operations and future financial challenges.
+We need Board members who have diverse skills, a deep understanding of the Town’s operations and financial capacity, 
+and, the ability to bring a new approach to solving problems and creating opportunities.  My professional career, 
+as well as my service to the town on the Finance Committee, have given me the necessary skills to help meet the challenges 
+and of the future and expanding the opportunities for the Town to thrive.
 
-* I am dedicated to serving the resident’s interests: 
-  improving Town roads, buildings and waterfront infrastructures. 
-  Planning for the future of the Long Beach community and beach.
+For all these reasons, I’m running for Selectman and I ask for your vote on or before June 30th.*
 
-* I am committed to building a strong collaboration among the Selectmen, 
-  volunteer committees and Town employees to overcome these challenges, 
-  and to ensure that Rockport is a vibrant community serving people of all ages.
+I am dedicated to:
 
-Please don't hesitate to email me at `wrwagner@alum.mit.edu`.
+* Maintaining a vibrant Downtown for residents and visitors
+* Promoting senior and health services
+* Supporting an excellent education for all
+* Improving road, building, and waterfront infrastructure
+* Resolving Long Beach infrastructure and environmental issues
+* Ensuring best financial and operational practices  
+
+*SPECIAL NOTE REGARDING VOTING*
+
+Due to health concerns during the Covid-19 epidemic the Town currently providing early/absentee ballots to anyone 
+who wishes to cast there vote without having to enter a polling venue. 
+o receive your ballot by mail click on this link to the town voting instructions.
+
 I want to understand the issues you care about most.
