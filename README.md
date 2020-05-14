@@ -1,1 +1,1 @@
-# Bill Wagner's Selectman website
+# Bill Wagner for Selectman website
