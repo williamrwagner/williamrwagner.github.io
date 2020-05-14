@@ -19,8 +19,8 @@ and Town employees to ensure Rockport is a vibrant community serving people of a
 
 We need Board members who have diverse skills, a deep understanding of the Town’s operations and financial capacity, 
 and, the ability to bring a new approach to solving problems and creating opportunities.  My professional career, 
-as well as my service to the town on the Finance Committee, have given me the necessary skills to help meet the challenges 
-and of the future and expanding the opportunities for the Town to thrive.
+as well as my service to the town on the Finance Committee, have given me the necessary skills to help meet the challenges  
+of the future and expanding the opportunities for the Town to thrive.
 
 For all these reasons, I’m running for Selectman and I ask for your vote on or before June 30th.*
 
@@ -36,7 +36,7 @@ I am dedicated to:
 *SPECIAL NOTE REGARDING VOTING*
 
 Due to health concerns during the Covid-19 epidemic the Town currently providing early/absentee ballots to anyone 
-who wishes to cast there vote without having to enter a polling venue. 
-o receive your ballot by mail click on this link to the town voting instructions.
+who wishes to cast their vote without having to enter a polling venue. 
+to receive your ballot by mail clicking on this link to the town voting instructions.
 
 I want to understand the issues you care about most.
