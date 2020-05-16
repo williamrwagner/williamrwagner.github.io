@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bill for Selectman
-email: wrwagner@alum.mit.edu
+email: billwagnerforselectman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bill Wagner for Rockport's Board of Selectman in 2020.
 minimal_mistakes_skin: default
@@ -56,9 +56,9 @@ author:
     - label: "Rockport, MA"
       icon: "fa fa-fw fa-map-marker"
       url: "https://goo.gl/maps/g5XzSuDecW8YMETP6"
-    - label: "wrwagner@alum.mit.edu"
+    - label: "billwagnerforselectman@gmail.com"
       icon: "fa fa-fw fa-envelope-square"
-      url: "mailto:wrwagner@alum.mit.edu"
+      url: "mailto:billwagnerforselectman@gmail.com"
   
 #footer:
 #  links:
