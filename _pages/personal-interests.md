@@ -1,7 +1,7 @@
 ---
 title: About me
 header:
-permalink: /Personal Interests/
+permalink: /Personal interests/
 ---
 
 Lover of the Island Woods
