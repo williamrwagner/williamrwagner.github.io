@@ -10,14 +10,14 @@ I am asking for your support and vote.
 
 My goal is to collaborate with the Selectmen to meet the challenges we will face over the next several years. There are many that have financial ramifications; for example:
 
-*	Economic Impacts – We face an uncertain economy from the COVID pandemic; 
+*	**Economic Impacts** – We face an uncertain economy from the COVID pandemic; 
 our dining, shopping, arts and entertainment businesses are being tested. 
 Our Town revenues from the state will be impacted. We need to make the best decisions for all in these uncertain times.
 
-*	Infrastructure – Rockport’s infrastructure is suffering from deferred maintenance. These include water/sewer, 
+*	**Infrastructure** – Rockport’s infrastructure is suffering from deferred maintenance. These include water/sewer, 
 town buildings and roads. Our valued coastal beaches, seawalls and harbors are threatened.
 
-*	Long Beach –The beach and property behind the beach are owned by the Town.  The property is leased 
+*	**Long Beach** –The beach and property behind the beach are owned by the Town.  The property is leased 
 to homeowners and the leases expire at the end of 2023. The Town owes leaseholders and taxpayers 
 a plan for new terms at the end of the lease. The condition of the seawall protecting the homes 
 is a critical issue with significant financial and environmental considerations.
