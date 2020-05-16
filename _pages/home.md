@@ -22,28 +22,16 @@ to homeowners and the leases expire at the end of 2023. The Town owes leaseholde
 a plan for new terms at the end of the lease. The condition of the seawall protecting the homes 
 is a critical issue with significant financial and environmental considerations.
 
-
-We need Board members who have diverse skills, a deep understanding of the Town’s operations and financial capacity, 
-and, the ability to bring a new approach to solving problems and creating opportunities.  My professional career, 
-as well as my service to the town on the Finance Committee, have given me the necessary skills to help meet the challenges  
-of the future and expanding the opportunities for the Town to thrive.
-
 My service on the Finance Committee gives me broad knowledge of Town operations and financial challenges. 
 I joined the Finance Committee because I wanted to give back to the community and help the management of the 
 Town using my financial management experience. I enjoyed my time volunteering. 
 I want to further serve the community and believe my experiences will be an asset as Selectman.
 
-My background includes:
-
-*	A career in financial management with large and small companies.
-
-*	Financial management and engineering degrees from MIT 
-
-*	A regular visitor to the North Shore since 1968, a MA resident for 35 years and a Rockport resident for the last 10 years. I am married with 2 adult sons.
-
 I want to join the Board of Selectmen to help preserve Rockport as a wonderful place to live, work and play. 
 
 I am asking for your vote on June 30. 
+
+See more about me and qualifications on "About Me"
 
 *SPECIAL NOTE REGARDING VOTING*
 
