@@ -1,11 +1,18 @@
 ---
-title: Town Volunteer
+title: Past Town Service
 header:
 permalink: /town-participation/
 ---
-* Finance committee - 6 years
+* Served on Finance committee - 6 years; Chair for 2+ years
 
-* Capital improvement Planning Committee, 6 years as member and Chair
+>> - We significantly improved voter communication of Town budget
+>> - Collaborated with Town departments and committees to deliver a balanced budget
+>> - Recommended School budgets in line with their requests
+>> - Met current needs while increasing Town rainy day reserves
 
-* Liaison to DPW Commissioners for FinCom
+* Served on Capital improvement Planning Committee, 6 years as member and Chair
+
+* Liaison to DPW Commissioners and attended most meetings
+
+>> - 
   
