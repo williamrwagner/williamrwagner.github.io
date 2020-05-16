@@ -1,9 +1,9 @@
 main:
   - title: "Town participation"
     url: /town-participation/
-  - title: "Professional leadership"
-    url: /professional-leadership/
+!  - title: "Professional leadership"
+!    url: /professional-leadership/
   - title: "About Me"
     url: /personal-interests/
-  - title: "Help my campaign"
+  - title: "Join my campaign"
     url: /help-my-campaign/
