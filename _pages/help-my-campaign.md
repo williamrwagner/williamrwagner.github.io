@@ -1,10 +1,10 @@
 ---
-title: Help my campaign
+title: Join my campaign
 header: 
 permalink: /help-my-campaign/
 ---
 
-*   [Email me at `wrwagner@alum.mit.edu` to display a lawn sign](mailto:wrwagner@alum.mit.edu)
+*   [Email me at `billwagnerforselectman@gmail.com` to display a lawn sign](mailto:billwagnerforselectman@gmail.com)
 
 [comment]: <> *   Donations are graciously accepted. Please mail to:
 [comment]: <> 
