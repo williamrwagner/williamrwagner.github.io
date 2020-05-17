@@ -33,10 +33,4 @@ I am asking for your vote on June 30.
 
 See more about me and qualifications on "About Me"
 
-*SPECIAL NOTE REGARDING VOTING*
-
-Due to health concerns during the Covid-19 epidemic the Town currently providing early/absentee ballots to anyone 
-who wishes to cast their vote without having to enter a polling venue. 
-to receive your ballot by mail clicking on this link to the town voting instructions.
-
 I want to understand the issues you care about most.
