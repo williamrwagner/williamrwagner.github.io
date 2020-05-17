@@ -5,13 +5,13 @@ title: "I Care About Rockport's Future"
 ---
 
 The Rockport Town elections will be June 30. I am running for Selectman because I want to do my part to help 
-lead Rockport to a vibrant future, particularly as we recover from the terrible effects of COVID. 
+lead Rockport to a vibrant future, particularly as we recover from the effects of COVID. 
 I am asking for your support and vote.
 
-My goal is to collaborate with the Selectmen to meet the challenges we will face over the next several years. There are many that have financial ramifications; for example:
+My goal is to collaborate with the Selectmen to meet the challenges we face over the next several years. There are many that have financial ramifications; for example:
 
 *	**Economic Impacts** – We face an uncertain economy from the COVID pandemic; 
-our dining, shopping, arts and entertainment businesses are being tested. 
+our dining, shopping, arts and entertainment businesses are being tested and unemployment is at high levels. 
 Our Town revenues from the state will be impacted. We need to make the best decisions for all in these uncertain times.
 
 *	**Infrastructure** – Rockport’s infrastructure is suffering from deferred maintenance. These include water/sewer, 
