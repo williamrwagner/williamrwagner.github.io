@@ -4,6 +4,8 @@ header:
 permalink: /about-me/
 ---
 
-Lover of the Island Woods
 
 
+
+M.S. Management, Sloan School of Management, Massachusetts Institute of Technology 
+B.S. Aeronautical & Aerospace Engineering, Massachusetts Institute of Technology
