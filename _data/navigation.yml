@@ -2,6 +2,8 @@ main:
   - title: "Town participation"
     url: /town-participation/
   - title: "About Me"
-    url: /personal-interests/
+    url: /about-me/
   - title: "Join my campaign"
     url: /help-my-campaign/
+  - title: "Election"
+    url: /election/
