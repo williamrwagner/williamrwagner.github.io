@@ -48,29 +48,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name             : "Bill Wagner"
-  avatar           : "/assets/images/headshot.jpg"
-  bio              : "Ten year Rockport resident."
+  name   : "Bill Wagner"
+  avatar : "/assets/images/headshot.jpg"
+  bio    : "[`billwagnerforselectman@gmail.com`](mailto:billwagnerforselectman@gmail.com)"
 
   links:
-    - label: "Rockport, MA"
+    - label: "Pigeon Cove, MA"
       icon: "fa fa-fw fa-map-marker"
-      url: "https://goo.gl/maps/g5XzSuDecW8YMETP6"
+      url: "https://goo.gl/maps/8N7TaezQd989CDGz7"
+  
+footer:
+  links:
     - label: "billwagnerforselectman@gmail.com"
       icon: "fa fa-fw fa-envelope-square"
       url: "mailto:billwagnerforselectman@gmail.com"
-  
-#footer:
-#  links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
 
 defaults:
   # _pages
