@@ -32,4 +32,4 @@ I am asking for your vote on June 30.
 
 See more about me and qualifications on "About me".
 
-I want to understand the issues you care about most. Feel free to send an email with your issues and concerns.
+I want to understand the issues you care about most. Feel free to send an [email](mailto:billwagnerforselectman@gmail.com) with your issues and concerns.
