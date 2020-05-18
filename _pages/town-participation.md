@@ -4,14 +4,14 @@ header:
 permalink: /town-participation/
 ---
 
-* **Finance Committee** *(6 years as member, 2+ years as chair)*
+* **Finance Committee** *(6 years as member, 2+ years as chair)* As a committee we accomplished many things:
 
     - Significantly improved voter communication of Town budget
     - Collaborated with Town departments and committees to deliver a balanced budget
     - Recommended School budgets in line with their requests
     - Met current needs while increasing Town rainy day reserves
-    - Presented the first-ever four year financial plan with recommendations for selectmen
+    - Developed the first-ever four year financial plan with recommendations for selectmen
 
 * **Capital Improvement Planning Committee**, *(6 years as member, 2 years as chair)*
 
-* **Liaison to DPW Commissioners and attended most meetings**
+* **Liaison to DPW Commissioners**
