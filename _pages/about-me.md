@@ -10,7 +10,7 @@ manufacturing, consumer products, internet services and marketing services.
 I found particular enjoyment consulting with start-ups and early stage businessees on business plans, 
 and operations.  
 
-Some well known companies include PepsiCo Inc, Dep Corporation, Polaroid, General Scanning Inc and a number 
+Some well known companies I've worked at include PepsiCo Inc, Dep Corporation, Polaroid, General Scanning Inc and a number 
 of other small to mid-size companies.
 
 I hold degrees in Financial Management from MIT (MS) and Aeronautical Engineering from MIT (BS)
