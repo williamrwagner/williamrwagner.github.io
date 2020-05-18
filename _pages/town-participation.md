@@ -10,7 +10,7 @@ permalink: /town-participation/
     - Collaborated with Town departments and committees to deliver a balanced budget
     - Recommended School budgets in line with their requests
     - Met current needs while increasing Town rainy day reserves
-    - Prepared the first-ever four year financial plan with recommendations for selectmen
+    - Presented the first-ever four year financial plan with recommendations for selectmen
 
 * **Capital Improvement Planning Committee**, *(6 years as member, 2 years as chair)*
 
