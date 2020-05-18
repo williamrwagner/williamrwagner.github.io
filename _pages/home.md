@@ -25,12 +25,11 @@ is a critical issue with significant financial and environmental considerations.
 My service on the Finance Committee gives me broad knowledge of Town operations and financial challenges. 
 I joined the Finance Committee because I wanted to give back to the community and help the management of the 
 Town using my financial management experience. I enjoyed my time volunteering. 
-I want to further serve the community and believe my experiences will be an asset as Selectman.
-
-I want to join the Board of Selectmen to help preserve Rockport as a wonderful place to live, work and play. 
+I want to further serve the community and help preserve Rockport as a wonderful place to live, work and play.
+I believe my experiences and learnings will be an asset as Selectman.
 
 I am asking for your vote on June 30. 
 
-See more about me and qualifications on "About me"
+See more about me and qualifications on "About me".
 
 I want to understand the issues you care about most. Feel free to send an email with your issues and concerns.
