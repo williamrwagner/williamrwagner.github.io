@@ -15,7 +15,7 @@ I hold degrees in Financial Management from MIT (MS) and Aeronautical Engineerin
 **Personal**
 
 My wife, Susan, and I have been married for 35 years and have two sons, Gregory and Andrew, 
-who were raised in Wellesley. 
+who we raised in Wellesley. 
 Our careers took us to several locations in MA, CA, CT, NY and NJ, but we wanted to settle on the North Shore, 
 having been frequent visitors to Rockport since the late 60's.
 
