@@ -28,8 +28,9 @@ Town using my financial management experience. I enjoyed my time volunteering.
 I want to further serve the community and help preserve Rockport as a wonderful place to live, work and play.
 I believe my experiences and learnings will be an asset as Selectman.
 
-I am asking for your vote on June 30. 
-
 See more about me and qualifications on "About me".
 
-I want to understand the issues you care about most. Feel free to send an [email](mailto:billwagnerforselectman@gmail.com) with your issues and concerns.
+I want to understand the issues you care about most. Feel free to send an [email](mailto:billwagnerforselectman@gmail.com) 
+with your issues and concerns.
+
+I am asking for your vote on June 30. 
