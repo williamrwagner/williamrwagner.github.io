@@ -19,4 +19,4 @@ permalink: /town-participation/
     - Worked with department heads to prioritize and recommend projects for Town Meeting approval within tight spending limits.
     - Recommended expansion of IT capabilities to Town Meeting for town departments and schools.
 
-* **Liaison to DPW Commissioners**
+[comment]: <> * **Liaison to DPW Commissioners**
