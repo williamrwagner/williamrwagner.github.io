@@ -4,7 +4,8 @@ header:
 permalink: /town-participation/
 ---
 
-* **Finance Committee** *(6 years as member, 2+ years as chair)* As a committee we accomplished many things:
+* **Finance Committee** *(6 years as member, 2+ years as chair)*  
+    As a committee we accomplished many things:
 
     - Significantly improved voter communication of Town budget
     - Collaborated with Town departments and committees to deliver a balanced budget
