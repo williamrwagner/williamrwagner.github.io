@@ -7,7 +7,7 @@ permalink: /about-me/
 
 I have extensive experience in financial management in diverse industries including technology, software, 
 manufacturing, consumer products, internet services and marketing services. 
-I found particular enjoyment consulting with start-ups and early stage businessees on business plans, 
+I found particular enjoyment consulting with start-ups and early stage companies on business plans, 
 and operations.  
 
 I hold degrees in Financial Management from MIT (MS) and Aeronautical Engineering from MIT (BS)
