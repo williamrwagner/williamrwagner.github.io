@@ -9,7 +9,7 @@ the Town is currently providing early absentee ballots to anyone
 who wishes to vote without having to enter a polling venue. 
 
 You can [get a ballot request form][ballot request form]
-at any time but it must be received by the Town Clerk before June 30 either by mail or for convenience, 
+at any time but it must be received by the Town Clerk before June 30 either by mail, or for convenience, 
 by deposit in a special slot at the Town Hall rear vestibule without having to go inside.
 
 [**Click here to download the Town Clerk Early Ballot Request Form.**][ballot request form]
