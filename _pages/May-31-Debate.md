@@ -19,7 +19,7 @@ in Rockport on Sun May 31. During the debate candidates answered 7 questions:
 * What would you do to increase affordable housing toward the state goal of 10% and would you support a high density development at the train station?
 * What other question would you like to answer?
 
-The [recording is now available on 1623’s youtube channel](debate video).
+The [recording is now available on 1623’s youtube channel][debate video].
   
 You can watch the post-debate interview with the moderator, Hannah Kimberley, [here][post debate interview].
 
