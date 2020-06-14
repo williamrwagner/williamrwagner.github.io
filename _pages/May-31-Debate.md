@@ -4,8 +4,9 @@ header:
 permalink: /May-31-Debate/
 ---
 
-<a href="https://youtu.be/qCkqrzwpQlk" />
-<img src="/assets/images/Debate.png" width="800"/>
+<a href="https://youtu.be/qCkqrzwpQlk">
+    <img src="/assets/images/Debate.png" width="800"/>
+</a>
 
 The Cape Ann League of Women Voters hosted a Zoom debate between the five candidates for two open seats on the Board of Selectman 
 in Rockport on Sun May 31. During the debate candidates answered 7 questions:
