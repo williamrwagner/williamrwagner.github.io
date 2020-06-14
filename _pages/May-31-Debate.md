@@ -19,8 +19,9 @@ in Rockport on Sun May 31. During the debate candidates answered 7 questions:
 
 The recording of it is now available on 1623’s youtube channel at the following link:
  
-The debate is online at https://youtu.be/qCkqrzwpQlk.
- 
+The debate is online and you can [watch it here ][debate video].
+  
+You can watch the post-debate interview with the moderator, Hannah Kimberley, [here][post debate interview].
 
- 
-A post-debate interview with the moderator, Hannah Kimberley, is online at https://youtu.be/RGvwSybpnkQ
+[debate video]: https://youtu.be/qCkqrzwpQlk
+[post debate interview]: https://youtu.be/RGvwSybpnkQ
