@@ -4,7 +4,7 @@ header:
 permalink: /May-31-Debate/
 ---
 
-<a href="https://youtu.be/qCkqrzwpQlk">
+<a href="https://youtu.be/qCkqrzwpQlk" />
 <img src="/assets/images/Debate.png" width="800"/>
 
 The Cape Ann League of Women Voters hosted a Zoom debate between the five candidates for two open seats on the Board of Selectman 
