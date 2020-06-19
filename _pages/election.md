@@ -14,7 +14,7 @@ by deposit in a special slot at the Town Hall rear vestibule without having to g
 
 [**Click here to download the Town Clerk Early Ballot Request Form.**][ballot request form]
 
-[ballot request form]: https://www.rockportma.gov/sites/rockportma/files/news/2020-municipal-early-ballot-application.pdf
+[ballot request form]: https://www.rockportma.gov/sites/g/files/vyhlif1141/f/news/2020-municipal-early-ballot-application.pdf
 
 <!--- The State has made allowances for the Local Election. You can vote early or absentee because of this current pandemic. 
 All you need to do is one of the following:
