@@ -17,10 +17,8 @@ Our Town revenues from the state will be impacted. We need to make the best deci
 *	**Infrastructure** – Rockport’s infrastructure suffers from deferred maintenance. This includes water/sewer, 
 town buildings and roads. Our valued coastal beaches, seawalls and harbors are threatened.
 
-*	**Education** – Providing a quality education is very important for the town’s vitality and attraction to 
-existing and new families. Today’s challenge will be adapting to changing public health guidelines. 
-State and town funding face uncertain futures. Balancing these issues with the school mission requires supporting 
-decisions best for students, parents, teachers and taxpayers.
+*	**Education** – I SUPPORT THE SCHOOLS. Our children represent the future. Providing a quality education is very important to prepare students for their future. Also, the town’s 
+vitality and attraction to existing and new families benefits. Schools are too important not to support.
 
 *	**Long Beach** –The beach and property behind the beach are owned by the Town.  The property is leased 
 to homeowners, and the leases expire at the end of 2023. The Town owes leaseholders and taxpayers 
